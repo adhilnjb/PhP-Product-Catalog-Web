@@ -1,4 +1,4 @@
-/* General Styles */
+
 body {
     font-family: sans-serif;
     margin: 0;
@@ -6,7 +6,7 @@ body {
     box-sizing: border-box;
 }
 
-/* Hero Section Styles */
+
 .hero {
     height: 300px;
     background-image: url('https://fscl01.fonpit.de/userfiles/7687254/image/iPhone_15_vs_15_Pro.jpg');
@@ -30,7 +30,7 @@ body {
     margin-bottom: 2rem;
 }
 
-/* Product Catalog Styles */
+
 .container {
     max-width: 960px;
     margin: 0 auto;
@@ -73,13 +73,13 @@ h1 {
 
 .product-card img {
     max-width: 100%;
-    height: 300px; /* Adjust height to your preferred size */
-    object-fit: contain; /* Ensures the entire image is visible */
+    height: 300px; 
+    object-fit: contain; 
     margin-bottom: 1rem;
-    background-color: #f9f9f9; /* Optional background for better contrast */
+    background-color: #f9f9f9; 
 }
 
-/* Responsive Styles for Tablets */
+
 @media (max-width: 768px) {
     .hero {
         height: 250px;
@@ -98,7 +98,7 @@ h1 {
     }
 }
 
-/* Responsive Styles for Mobile */
+
 @media (max-width: 576px) {
     #product-list {
         display: flex;
@@ -112,7 +112,7 @@ h1 {
     }
 }
 
-/* Footer Styles */
+
 footer {
     background-color: #3182CE;
     color: #fff;

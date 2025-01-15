@@ -3,7 +3,7 @@
 include 'header.php';
 ?>
 
-<!-- Hero Section -->
+
 <section class="hero">
     <div class="hero-content">
       <h2>Welcome to Our Store</h2>
@@ -12,7 +12,7 @@ include 'header.php';
     </div>
 </section>
 
-<!-- Main Content -->
+
 <main class="main-content">
     <h1>Product Catalog</h1>
     <div class="filter-section">
