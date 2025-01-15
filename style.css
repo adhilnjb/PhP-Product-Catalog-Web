@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    background: url('https://images.pexels.com/photos/193004/pexels-photo-193004.jpeg?cs=srgb&dl=apple-iphone-smartphone-193004.jpg&fm=jpg');
+    color: aliceblue;
+}
+
+header, footer {
+    text-align: center;
+}
+#product-list img {
+    height: 250px; 
+    object-fit:contain; 
+    overflow: hidden;
+    transition: transform 0.2s ease-in-out; 
+    background-color: transparent; 
+  }

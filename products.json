@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Galaxy S24 Ultra",
+        "description": "256GB,12GB",
+        "image": "https://images.samsung.com/is/image/samsung/assets/in/2401/smartphones/galaxy-s24-ultra/specs/163x346_Titanium-Blue_Galaxy_S24_Ultra.jpg?$163_346_PNG$",
+        "price": 142628.00,
+        "category": "Samsung"
+        
+    },
+    {
+        "name": "Galaxy Z Flip6",
+        "description": "512GB｜12GB",
+        "image": "https://images.samsung.com/is/image/samsung/assets/in/2407/smartphones/galaxy-z-flip6/specs/163x346_Blue.jpg?$163_346_PNG$",
+        "price": 114256,
+        "category": "Samsung"
+    },
+    {
+        "name": "iPhone 15",
+        "description": "15.5 cm (6.1″) ,Super Retina XDR display",
+        "image": "https://www.apple.com/v/iphone/home/by/images/overview/select/iphone_15__buwagff0mwwi_xlarge.png",
+        "price": 99900,
+        "category": "Iphone"
+    },
+    {
+        "name": "Iphone 16",
+        "description": "17.43 cm (6.9″) or 15.93 cm (6.3″)Super Retina XDR display",
+        "image": "https://www.apple.com/v/iphone/home/by/images/overview/select/iphone_16__c5bvots96jee_xlarge.png",
+        "price": 119900.00,
+        "category": "Iphone"
+    },
+    {
+        "name": "Xiaomi 14",
+        "description": "Leica 50MP Optical Lens, ƒ/1.6 Ultra-Wide Aperture",
+        "image": "https://i03.appmifile.com/818_item_in/05/03/2024/2a92b6b28942898c720ab848885c7a0a.jpg?thumb=1&w=300&f=webp&q=85",
+        "price": 98393,
+        "category": "Xiaomi"
+    },
+    {
+        "name": "Xiaomi 14 civi",
+        "description": "Leica 50MP Optical Lens, ƒ/1.6 Ultra-Wide Aperture",
+        "image": "https://cdn-files.kimovil.com/default/0010/02/thumb_901949_default_big.jpg",
+        "price": 38393,
+        "category": "Xiaomi"
+    },
+    {
+        "name": "Iqoo 3",
+        "description": "Highlight powerful performance,technological aesthetics,Monster Halo",
+        "image": "https://in-exstatic-vivofs.vivo.com/gdHFRinHEMrj3yPG/1733151088779/79325b02420cc6e307ef1e394d6623cd.png",
+        "price": 22393,
+        "category": "Iqoo"
+    },
+    {
+        "name": "OPPO A3 Pro",
+        "description": "Damage-proof All-Round Armour Body120Hz Ultra Bright Display",
+        "image": "https://image.oppo.com/content/dam/oppo/common/mkt/v2-2/oppo-a3-pro-5g-en/in/A3-pro-5g_640x640.png.thumb.webp",
+        "price": 28393,
+        "category": "Oppo"
+    },
+    {
+        "name": "Oppo Find X",
+        "description": "Powerful Camera, Powerful AI,AI Telescope Zoom",
+        "image": "https://image.oppo.com/content/dam/oppo/in/mkt/homepage/middle/find-x8-640-640.png.thumb.webp",
+        "price": 35393,
+        "category": "Oppo"
+    }
+]
